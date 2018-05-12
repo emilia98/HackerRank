@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.hackerrank.com">
+	<a href="https://www.hackerrank.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/emilia98/HackerRank/master/hackerrank.png?raw=true" width="300px">
 	</a>
 </p>
