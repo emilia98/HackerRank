@@ -1,7 +1,8 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/emilia98/HackerRank/master/hackerrank.png?raw=true" width="300px">
+	<a href="https://www.hackerrank.com">
+		<img src="https://raw.githubusercontent.com/emilia98/HackerRank/master/hackerrank.png?raw=true" width="300px">
+	</a>
 </p>
-
 <h1 align="center"> Revising the Select Query I</a></h1>
 <h3 align="center"> Link to <a href="https://www.hackerrank.com/challenges/revising-the-select-query/problem">Challange</a></h3>
 
